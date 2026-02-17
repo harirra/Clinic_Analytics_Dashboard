@@ -83,7 +83,7 @@ The dashboard answers key clinic questions:
 
 <img width="699" height="376" alt="image" src="https://github.com/user-attachments/assets/673a6649-5fb4-49c9-b47e-9909bac8bbfb" />
 
-
+----
 
 <img width="958" height="478" alt="image" src="https://github.com/user-attachments/assets/bffaba60-5439-4414-8589-55585343783a" />
 
