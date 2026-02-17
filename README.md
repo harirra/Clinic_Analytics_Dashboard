@@ -1,2 +1,113 @@
 # Clinic_Analytics_Dashboard
 Interactive clinic analytics dashboard built in Power BI
+
+# 🏥 Clinic Analytics Dashboard — Power BI
+
+## 📌 Project Overview
+
+This project presents an interactive **Clinic Analytics Dashboard** built in Power BI to monitor patient visits, doctor performance, and calendar-based trends.
+
+The dashboard transforms raw clinic data into meaningful visual insights to support decision-making, scheduling efficiency, and operational transparency.
+
+---
+
+## 🎯 Project Significance
+
+Healthcare facilities rely on structured data to improve:
+
+* Patient flow management
+* Doctor workload balancing
+* Appointment trend tracking
+* Operational efficiency
+
+This dashboard demonstrates how business intelligence tools can simplify healthcare analytics and improve visibility into clinic performance.
+
+---
+
+## 🗂 Dataset Structure
+
+The project uses three structured tables:
+
+### 📅 Calendar Table
+
+* Date hierarchy
+* Month/Year tracking
+* Time-based filtering
+
+### 🧑‍⚕️ Patient Table
+
+* Patient records
+* Visit information
+* Appointment details
+
+### 👨‍⚕️ Doctor Table
+
+* Doctor profiles
+* Specialization tracking
+* Visit associations
+
+These tables are linked through relational modeling to enable dynamic reporting.
+
+---
+
+## 🔍 Problem Statements Solved
+
+The dashboard answers key clinic questions:
+
+* How many patients visit over time?
+* Which doctors handle the highest workload?
+* What are peak appointment periods?
+* How does visit volume trend monthly?
+
+---
+
+## 📊 Dashboard Features
+
+* Interactive filters by date and doctor
+* Patient visit trend analysis
+* Doctor workload comparison
+* Dynamic visuals and KPIs
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Power BI
+* Data modeling & relationships
+* DAX measures
+* Interactive visualization
+
+---
+
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+## ✅ Key Insights
+
+* Identifies peak clinic activity periods
+* Highlights doctor utilization patterns
+* Enables time-based performance tracking
+* Supports data-driven clinic decisions
+
+---
+
+## 🚀 Conclusion
+
+This project showcases how Power BI can convert raw clinic data into actionable insights. It demonstrates practical skills in data modeling, visualization design, and analytical thinking.
+
+---
+
+## 📁 Repository Contents
+
+Clinic_Dashboard.pbix → Power BI dashboard file
+calendar.csv → Date dimension data
+patients.csv → Patient dataset
+doctors.csv → Doctor dataset
+
+---
+
+---
+
