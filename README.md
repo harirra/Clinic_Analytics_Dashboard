@@ -81,7 +81,8 @@ The dashboard answers key clinic questions:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="699" height="376" alt="image" src="https://github.com/user-attachments/assets/673a6649-5fb4-49c9-b47e-9909bac8bbfb" />
+
 
 ---
 
